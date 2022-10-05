@@ -177,6 +177,14 @@ h1 {
     padding-top: 1.5em;
 }
 
+/*Code credit to w3 docs 
+
+See code here:
+https://www.w3docs.com/snippets/css/how-to-flip-text-with-css.html
+*/
+
+
+
 .aqua {
     background-color: cyan;
     padding-top: 20px;
